@@ -1,0 +1,8 @@
+*~
+*lookHere
+*.bam
+bamShrink
+bamShrink_merged
+*.bai
+*.swp
+tests/tests.pyc
